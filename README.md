@@ -1,6 +1,9 @@
 # Data Analyst
 
-### Education
-Statistics, BA
+#### Technical Skills: Python, R, SQL, Microsoft Excel, Tableau, Matplotlib, Pandas, Vega-Lite
 
-### Projects
+## Education
+- B.A., Statistics | Calvin University (_December 2024_)
+
+## Projects
+### Statistical
