@@ -12,5 +12,5 @@ In this project, I applied advanced data analysis techniques using R to explore 
 ![Prediction Plot (stat-245)](https://github.com/user-attachments/assets/678c59e2-4df4-4649-9061-29c3c9be87d3)
 ![Model Assessment (residual vs  predicted)](https://github.com/user-attachments/assets/615e705c-b261-40c0-b2e4-a63c3a7ea225)
 <p align="center">
-  <img width="460" height="300" src="[https://picsum.photos/460/300](https://github.com/user-attachments/assets/678c59e2-4df4-4649-9061-29c3c9be87d3)">
+  <img width="460" height="300" src="https://github.com/user-attachments/assets/678c59e2-4df4-4649-9061-29c3c9be87d3">
 </p>
