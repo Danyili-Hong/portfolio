@@ -21,3 +21,7 @@ In this project, I applied advanced data analysis techniques using R to explore 
 ### - Interactive Data Visualization and Dashboard Design Using Vega-Lite for Multi-Dataset Analysis
 
 In this project, I leveraged Vega-Lite via Altair in Python and R to design interactive and insightful data visualizations, working extensively with JSON and CSV datasets. My visualizations ranged from mapping U.S. airports and choropleth maps of state and county borders to illustrating trends in student performance. These visual tools helped foster data-driven discussions on curriculum enhancements within the department. Additionally, I explored dashboard creation to combine various data insights, offering an interactive platform for deeper analysis. This project strengthened my skills in transforming raw data into meaningful, actionable visual representations.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cc1a13e5-63f7-4567-8041-7851d711f881">
+</p>
