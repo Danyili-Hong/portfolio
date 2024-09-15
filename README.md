@@ -27,3 +27,8 @@ In this project, I leveraged Vega-Lite via Altair in Python and R to design inte
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cc1a13e5-63f7-4567-8041-7851d711f881">
 </p>
+
+### - Advanced Excel for Data Analysis, Predictive Modeling, and Visualization
+
+During my Excel training, I gained proficiency in advanced Excel functions such as pivot tables, VLOOKUP, and complex formulas. Through a series of hands-on projects, I applied these skills to perform data analysis, build predictive models, and create data visualizations. These projects involved transforming raw datasets into actionable insights, including the development of dynamic dashboards and automating data processes for increased efficiency. My experience demonstrates my ability to leverage Excel as a powerful tool for data analysis, reporting, and decision-making in real-world scenarios.
+
