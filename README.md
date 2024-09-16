@@ -32,6 +32,10 @@ In this project, I leveraged Vega-Lite via Altair in Python and R to design inte
 
 During my Excel training, I gained proficiency in advanced Excel functions such as pivot tables, VLOOKUP, and complex formulas. Through a series of hands-on projects, I applied these skills to perform data analysis, build predictive models, and create data visualizations. These projects involved transforming raw datasets into actionable insights, including the development of dynamic dashboards and automating data processes for increased efficiency. My experience demonstrates my ability to leverage Excel as a powerful tool for data analysis, reporting, and decision-making in real-world scenarios.
 
+[Car Inventory](https://calvincollege-my.sharepoint.com/:x:/g/personal/dh48_calvin_edu/EXkwuMaL4JZPoIr66ZTmo6oBrCg4uP9hTxLULzSYiX4eCQ?e=Ww0fdH)(The Top Left)
+[Gradebook](https://calvincollege-my.sharepoint.com/:x:/g/personal/dh48_calvin_edu/EcdfIyFkWa9AtF-pcR1jK34Bk8WbNZIUPISJaN13eWPkPw?e=8UfV7L)(The Top Right)
+[CrystalPools](https://calvincollege-my.sharepoint.com/:x:/g/personal/dh48_calvin_edu/EdxG7-PswfJIqloO7NnZB3kBEyEONSPxhQbHmOAU4zDKUg?e=dYVrrT)(The Middle)
+[Payroll](https://calvincollege-my.sharepoint.com/:x:/r/personal/dh48_calvin_edu/Documents/Excel%20Exercises/Exercise%20Payroll.xlsx?d=w8d0ff4cbe0d14d038402e69102a61feb&csf=1&web=1&e=t6zi1J)(The Bottom)
+
 ![Excel Exercises](https://github.com/user-attachments/assets/622610bb-ca07-4fde-8ddf-154b5a1a10b7)
 
-[Payroll](https://calvincollege-my.sharepoint.com/:x:/r/personal/dh48_calvin_edu/Documents/Excel%20Exercises/Exercise%20Payroll.xlsx?d=w8d0ff4cbe0d14d038402e69102a61feb&csf=1&web=1&e=t6zi1J)(The Bottom One)
