@@ -42,3 +42,6 @@ During my Excel training, I gained proficiency in advanced Excel functions such 
 
 ![Excel Exercises](https://github.com/user-attachments/assets/622610bb-ca07-4fde-8ddf-154b5a1a10b7)
 
+### - Retail Sales Forecasting and Gap Analysis Using R and Python: A Kaggle Case Study
+
+In this project, I utilized R and Python to model extensive retail sales data obtained from Kaggle, focusing on sales transactions from stores in Ecuador. Our primary objective was to forecast future store performance, leveraging years of transactional data to build a predictive model that achieved 85% accuracy. By performing a gap analysis, we identified areas for improvement within the model, enhancing its overall predictive capability. This project provided valuable insights into future sales trends, supporting strategic business planning for retail operations and highlighting the power of data-driven forecasting in the retail industry.
