@@ -32,3 +32,6 @@ In this project, I leveraged Vega-Lite via Altair in Python and R to design inte
 
 During my Excel training, I gained proficiency in advanced Excel functions such as pivot tables, VLOOKUP, and complex formulas. Through a series of hands-on projects, I applied these skills to perform data analysis, build predictive models, and create data visualizations. These projects involved transforming raw datasets into actionable insights, including the development of dynamic dashboards and automating data processes for increased efficiency. My experience demonstrates my ability to leverage Excel as a powerful tool for data analysis, reporting, and decision-making in real-world scenarios.
 
+![Excel Exercises](https://github.com/user-attachments/assets/622610bb-ca07-4fde-8ddf-154b5a1a10b7)
+
+[Car Inventory](PK)
