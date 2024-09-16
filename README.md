@@ -34,4 +34,4 @@ During my Excel training, I gained proficiency in advanced Excel functions such 
 
 ![Excel Exercises](https://github.com/user-attachments/assets/622610bb-ca07-4fde-8ddf-154b5a1a10b7)
 
-[Car Inventory](PK)
+[Car Inventory](Exercise car inventory.xlsx)
