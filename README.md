@@ -46,6 +46,10 @@ During my Excel training, I gained proficiency in advanced Excel functions such 
 
 In this project, I utilized R and Python to model extensive retail sales data obtained from Kaggle, focusing on sales transactions from stores in Ecuador. Our primary objective was to forecast future store performance, leveraging years of transactional data to build a predictive model that achieved 85% accuracy. By performing a gap analysis, we identified areas for improvement within the model, enhancing its overall predictive capability. This project provided valuable insights into future sales trends, supporting strategic business planning for retail operations and highlighting the power of data-driven forecasting in the retail industry.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/df198ee7-e346-4d88-900c-148b21084038">
+</p>
+
 ### - Evaluating the Synergistic Effects of Energy Drinks on Nervous System Activity Using Regression Analysis in Lumbricus terrestris
 [Publication](https://ikprress.org/index.php/JOBARI/article/view/4586)
 
