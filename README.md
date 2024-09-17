@@ -1,4 +1,4 @@
-# Data Analyst
+# Data Analyst (Danyili Hong)
 
 #### Technical Skills: Python, R, SQL, Microsoft Excel, Tableau, Matplotlib, Pandas, Vega-Lite
 
