@@ -6,6 +6,12 @@
 - B.A., Statistics | Calvin University (_December 2024_)
 
 ## Projects
+### - SQL and Tableau Project
+
+In this project, I worked with the Chinook dataset using SQL to extract and analyze sales data, focusing on monthly sales trends and genre performance. I utilized SQL skills, such as complex joins, aggregations, and date formatting, to gather insights from the relational database. I then connected the dataset to Tableau to create interactive dashboards, visualizing key metrics like total monthly sales, average sales per track, and genre-based performance. This project demonstrated my ability to perform data analysis, manage databases, and use Tableau to generate meaningful, data-driven insights.
+
+
+
 ### - Predictive Modeling and Data-Driven Habitat Management for Small Mammal Populations in Eco Preserve
 
 In this project, I applied advanced data analysis techniques using R to explore and model small mammal population trends for Eco Preserve. By fitting various models, performing model assessment and selection, I enhanced the predictive capabilities of our analysis. The culmination of this project was the development of a prediction plot, which forecasts future population dynamics, providing valuable insights for conservation efforts. This project emphasized the real-world application of statistical modeling in environmental management, showcasing the power of data-driven decision-making.
