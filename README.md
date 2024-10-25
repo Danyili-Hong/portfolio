@@ -8,13 +8,16 @@
 ## Projects
 ### - SQL and Tableau Project
 
-In this project, I worked with the Chinook dataset using SQL to extract and analyze sales data, focusing on monthly sales trends and genre performance. I utilized SQL skills, such as complex joins, aggregations, and date formatting, to gather insights from the relational database. I then connected the dataset to Tableau to create interactive dashboards, visualizing key metrics like total monthly sales, average sales per track, and genre-based performance. This project demonstrated my ability to perform data analysis, manage databases, and use Tableau to generate meaningful, data-driven insights.
+In this project, I worked with the **Chinook dataset** using **SQL** to extract and analyze sales data, focusing on monthly sales trends and genre performance. I utilized SQL skills, such as **complex joins**, **aggregations**, and **date formatting**, to gather insights from the relational database. I then connected the dataset to Tableau to create interactive dashboards, visualizing key metrics like total monthly sales, average sales per track, and genre-based performance. This project demonstrated my ability to perform data analysis, manage databases, and use Tableau to generate meaningful, data-driven insights.
 
+![Screenshot 2024-10-24 204617](https://github.com/user-attachments/assets/ca45a1e1-a299-4073-b097-2eb516ddb32f)
+![Screenshot 2024-10-24 204127](https://github.com/user-attachments/assets/2f52ad6b-f665-4db0-99b4-59afcb4bdf6a)
+![Screenshot 2024-10-24 204030](https://github.com/user-attachments/assets/73448099-417a-4181-bf08-8e03eb3fc4bc)
 
 
 ### - Predictive Modeling and Data-Driven Habitat Management for Small Mammal Populations in Eco Preserve
 
-In this project, I applied advanced data analysis techniques using R to explore and model small mammal population trends for Eco Preserve. By fitting various models, performing model assessment and selection, I enhanced the predictive capabilities of our analysis. The culmination of this project was the development of a prediction plot, which forecasts future population dynamics, providing valuable insights for conservation efforts. This project emphasized the real-world application of statistical modeling in environmental management, showcasing the power of data-driven decision-making.
+In this project, I applied advanced data analysis techniques using R to explore and model small mammal population trends for Eco Preserve. By fitting various models, performing model assessment and selection, I enhanced the predictive capabilities of our analysis. The culmination of this project was the development of a **prediction plot**, which forecasts future population dynamics, providing valuable insights for conservation efforts. This project emphasized the real-world application of **statistical modeling** in environmental management, showcasing the power of data-driven decision-making.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/678c59e2-4df4-4649-9061-29c3c9be87d3">
@@ -26,7 +29,7 @@ In this project, I applied advanced data analysis techniques using R to explore 
 
 ### - Interactive Data Visualization and Dashboard Design Using Vega-Lite for Multi-Dataset Analysis
 
-In this project, I leveraged Vega-Lite via Altair in Python and R to design interactive and insightful data visualizations, working extensively with JSON and CSV datasets. My visualizations ranged from mapping U.S. airports and choropleth maps of state and county borders to illustrating trends in student performance. These visual tools helped foster data-driven discussions on curriculum enhancements within the department. Additionally, I explored dashboard creation to combine various data insights, offering an interactive platform for deeper analysis. This project strengthened my skills in transforming raw data into meaningful, actionable visual representations.
+In this project, I leveraged **Vega-Lite** via **Altair** in **Python** and **R** to design interactive and insightful data visualizations, working extensively with **JSON** and **CSV** datasets. My visualizations ranged from mapping U.S. airports and **choropleth maps** of state and county borders to illustrating trends in student performance. These visual tools helped foster data-driven discussions on curriculum enhancements within the department. Additionally, I explored dashboard creation to combine various data insights, offering an interactive platform for deeper analysis. This project strengthened my skills in transforming raw data into meaningful, actionable visual representations.
 
 [Code for the Project](https://colab.research.google.com/drive/1WRXkhWEddf_rm0hdIk1pwo4SK6BsA4SX?usp=sharing)
 
@@ -36,7 +39,7 @@ In this project, I leveraged Vega-Lite via Altair in Python and R to design inte
 
 ### - Advanced Excel for Data Analysis, Predictive Modeling, and Visualization
 
-During my Excel training, I gained proficiency in advanced Excel functions such as pivot tables, VLOOKUP, and complex formulas. Through a series of hands-on projects, I applied these skills to perform data analysis, build predictive models, and create data visualizations. These projects involved transforming raw datasets into actionable insights, including the development of dynamic dashboards and automating data processes for increased efficiency. My experience demonstrates my ability to leverage Excel as a powerful tool for data analysis, reporting, and decision-making in real-world scenarios.
+During my **Excel** training, I gained proficiency in advanced Excel functions such as **pivot tables**, **VLOOKUP**, and **complex formulas**. Through a series of hands-on projects, I applied these skills to perform data analysis, build **predictive models**, and create **data visualizations**. These projects involved transforming raw datasets into actionable insights, including the development of dynamic dashboards and automating data processes for increased efficiency. My experience demonstrates my ability to leverage Excel as a powerful tool for data analysis, reporting, and decision-making in real-world scenarios.
 
 [Car Inventory](https://calvincollege-my.sharepoint.com/:x:/g/personal/dh48_calvin_edu/EXkwuMaL4JZPoIr66ZTmo6oBrCg4uP9hTxLULzSYiX4eCQ?e=Ww0fdH)(The Top Left)
 
@@ -50,7 +53,7 @@ During my Excel training, I gained proficiency in advanced Excel functions such 
 
 ### - Retail Sales Forecasting and Gap Analysis Using R and Python: A Kaggle Case Study
 
-In this project, I utilized R and Python to model extensive retail sales data obtained from Kaggle, focusing on sales transactions from stores in Ecuador. Our primary objective was to forecast future store performance, leveraging years of transactional data to build a predictive model that achieved 85% accuracy. By performing a gap analysis, we identified areas for improvement within the model, enhancing its overall predictive capability. This project provided valuable insights into future sales trends, supporting strategic business planning for retail operations and highlighting the power of data-driven forecasting in the retail industry.
+In this project, I utilized **R** and **Python** to model extensive retail sales data obtained from **Kaggle**, focusing on sales transactions from stores in Ecuador. Our primary objective was to forecast future store performance, leveraging years of transactional data to build a predictive model that achieved 85% accuracy. By performing a gap analysis, we identified areas for improvement within the model, enhancing its overall predictive capability. This project provided valuable insights into future sales trends, supporting strategic business planning for retail operations and highlighting the power of data-driven forecasting in the retail industry.
 
 
 <p align="center">
@@ -60,4 +63,4 @@ In this project, I utilized R and Python to model extensive retail sales data ob
 ### - Evaluating the Synergistic Effects of Energy Drinks on Nervous System Activity Using Regression Analysis in Lumbricus terrestris
 [Publication](https://ikprress.org/index.php/JOBARI/article/view/4586)
 
-In this research project, I examined the effects of energy drinks on the nervous system by analyzing action potentials in Lumbricus terrestris, an organism chosen for its similarities to the human nervous system. Using regression analysis, I assessed the reproducibility, sensitivity, and synergistic effects of various energy drink combinations. The study demonstrated a moderately linear relationship between injection volumes and action potential parameters, with the combined mixtures of energy drinks showing a greater impact than individual drinks. My findings highlighted the negative effects of certain combinations on nervous system activity, particularly the mixture of 5 Hour Energy with Red Bull, while other combinations, like Monster Juice with Red Bull, showed more positive synergistic effects. This project enhanced my understanding of regression analysis and its application to biological data, reinforcing my data analysis and problem-solving skills in a scientific context.
+In this research project, I examined the effects of energy drinks on the nervous system by analyzing action potentials in **Lumbricus terrestris**, an organism chosen for its similarities to the human nervous system. Using regression analysis, I assessed the reproducibility, sensitivity, and synergistic effects of various energy drink combinations. The study demonstrated a moderately linear relationship between injection volumes and action potential parameters, with the combined mixtures of energy drinks showing a greater impact than individual drinks. My findings highlighted the negative effects of certain combinations on nervous system activity, particularly the mixture of 5 Hour Energy with Red Bull, while other combinations, like Monster Juice with Red Bull, showed more positive synergistic effects. This project enhanced my understanding of regression analysis and its application to biological data, reinforcing my data analysis and problem-solving skills in a scientific context.
